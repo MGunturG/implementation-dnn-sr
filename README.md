@@ -19,12 +19,6 @@ On Windows is simply goto [This Link](https://www.python.org/downloads/windows/)
 
 To check if Python already installed on your machine, open Terminal or Command Prompt on Windows then run `py`.
 
-If you not using Windows, you must be know how to install Python on your machine, right? 
-
-_But I'm using macOS? How to install it?_
-
-Well, fck macOS. Find it by urslf.
-
 ### 2. Installing OpenCV
 If you already install OpenCV, an older version below 4.3 you need to upgrade it using this command:
 
